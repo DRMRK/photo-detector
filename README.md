@@ -1,5 +1,7 @@
 # photo-detector
 - This is from fastai lesson 2.
+- Using resnet18 to make a bear classifier.
+- This model can identify images of 'grizzly', 'black' and 'teddy' bears. 
 - Following the book, trained network on GCP.
 - Downloaded the trained model as exportGCP.pkl.
 - After having similar environment in local machine  as  in GCP try: voila photo_detector.ipynb
